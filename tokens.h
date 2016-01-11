@@ -24,6 +24,7 @@
 #define INT_VAL 1011
 #define FLOAT_VAL 1012
 #define IDENTIFIER 1013
+#define OPERATOR 1014
 #define EQUALS 1015
 #define AND 1016
 #define OR 1017
