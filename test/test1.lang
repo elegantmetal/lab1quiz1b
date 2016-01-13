@@ -1,24 +1,7 @@
-.()  	{}[] ,;
-if
-else
-endif
-while
-print
-int
-float
-char
-struct
-return
-123
-123.456
-stuff
-===&&||  	+-/*%==
-// this is a comment
-::@#$			// should get JUNK for each char
-iff			// should be IDENTIFIER (not 'if' followed by 'f')
-123print		// should be INTEGER followed by PRINT
-123.			// should be INTEGER followed by .
-123.xyz			// should be INTEGER . IDENTIFIER
-
-
-
+)
++
+373737
+my
+token
+.3289373737
+.373737
